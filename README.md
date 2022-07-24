@@ -19,7 +19,7 @@ pip install requests base64 discord_webhook
 ```sh
 Add discord webhook in 'WEBHOOK HERE' 
 Optional/Ping on execute/Webhook
-Change username and password
+Change 'username' and 'password'
 ```
 ```sh
 python BasicLogin.py
