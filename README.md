@@ -1,6 +1,6 @@
 # BasicLogin
 Simple Authentication by using username and password
-+If someone logged in sends his ip to webhook
++If someone logged in sends his ip/hwid to webhook
 ---
 
 <h2 id="how-to-use">🤔 How To Use</h2>
